@@ -8,8 +8,8 @@ This application sends sms notification using twilio at user registration level 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/DevKnight7/Real-Time SMS Notification System.git
-cd Real-Time SMS Notification System
+git clone https://github.com/DevKnight7/Real-Time-SMS-Notification-System.git
+cd Real-Time-SMS-Notification-System
 ```
 ## Database
 - `PostgreSQL Database`
